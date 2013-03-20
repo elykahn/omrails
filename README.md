@@ -1,0 +1,1 @@
+This is a practice app from the online one month rails class. Its the best. Yeah.
